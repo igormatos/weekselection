@@ -1,4 +1,5 @@
 # weekselection
+![](https://github.com/liuhaizhu/weekselection/blob/master/art/1.gif)
 How to use
 =====
 Gradle Dependency
