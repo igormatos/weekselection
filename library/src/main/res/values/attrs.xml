@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeekPickLayout">
+        <attr name="wpl_CheckedBgColor" format="reference|color"/>
+        <attr name="wpl_TextColor" format="reference|color"/>
+        <attr name="wpl_TextSize" format="reference|dimension"/>
+        <attr name="wpl_AnimDuration" format="reference|integer"/>
+    </declare-styleable>
+
+</resources>
